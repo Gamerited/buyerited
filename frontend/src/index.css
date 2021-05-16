@@ -119,3 +119,7 @@ img.medium{
   color: gold;
   margin: 0.1rem;
 }
+
+.rating span:last-child{
+  color: grey;
+}
