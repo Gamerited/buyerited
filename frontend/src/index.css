@@ -175,3 +175,20 @@ img.large{
 .error{
   color: red;
 }
+
+.danger{
+  padding: 1rem;
+  border: 0.1rem solid transparent;
+  border-radius: 1rem;
+}
+
+.alert-info{
+  color: darkblue;
+  background-color: whitesmoke;
+}
+
+
+.alert-danger{
+  color: red;
+  background-color: whitesmoke;
+}
